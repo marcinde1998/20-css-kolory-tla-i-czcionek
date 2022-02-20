@@ -1,0 +1,14 @@
+body
+{
+    background-color: bisque;
+}
+h1{ background-color: aliceblue;}
+h1 ~ p {background-color: antiquewhite;}
+h3{background-color: aqua;}
+h3 ~ p{background-color: aquamarine;}
+ol{background-color: azure;}
+.li1 {color: blue;}
+.li2 {color: blueviolet;}
+.li3 {color: brown;}
+.li4 {color: chocolate;}
+.li5 {color: chartreuse;}
